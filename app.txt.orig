@@ -1,0 +1,6 @@
+this is the first commit
+<<<<<<< HEAD
+this is feature1
+=======
+this is feature2
+>>>>>>> f2
